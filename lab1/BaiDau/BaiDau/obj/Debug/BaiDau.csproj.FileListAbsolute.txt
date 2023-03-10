@@ -1,0 +1,11 @@
+D:\game\bài làm\BaiDau\BaiDau\bin\Debug\BaiDau.exe.config
+D:\game\bài làm\BaiDau\BaiDau\bin\Debug\BaiDau.exe
+D:\game\bài làm\BaiDau\BaiDau\bin\Debug\BaiDau.pdb
+D:\game\bài làm\BaiDau\BaiDau\obj\Debug\BaiDau.csproj.AssemblyReference.cache
+D:\game\bài làm\BaiDau\BaiDau\obj\Debug\BaiDau.csproj.SuggestedBindingRedirects.cache
+D:\game\bài làm\BaiDau\BaiDau\obj\Debug\BaiDau.Form1.resources
+D:\game\bài làm\BaiDau\BaiDau\obj\Debug\BaiDau.Properties.Resources.resources
+D:\game\bài làm\BaiDau\BaiDau\obj\Debug\BaiDau.csproj.GenerateResource.cache
+D:\game\bài làm\BaiDau\BaiDau\obj\Debug\BaiDau.csproj.CoreCompileInputs.cache
+D:\game\bài làm\BaiDau\BaiDau\obj\Debug\BaiDau.exe
+D:\game\bài làm\BaiDau\BaiDau\obj\Debug\BaiDau.pdb
